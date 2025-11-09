@@ -1,0 +1,12 @@
+title: DSC180A-Methodology-4
+description: "DSC180A MA4"
+url: "https://kevinhuang8706.github.io"
+baseurl: ""
+author:
+  name: Kevin Huang
+  email: tih009@ucsd.edu
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+permalink: /:title/
